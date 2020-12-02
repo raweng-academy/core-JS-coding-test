@@ -1,0 +1,22 @@
+{
+  "name": "testcases",
+  "version": "1.0.0",
+  "description": "Assessment repository ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter mochawesome",
+    "submit": "mocha --reporter mochawesome",
+    "check": "mocha"
+  },
+  "keywords": [
+    "mocha",
+    "assessments"
+  ],
+  "author": "nirav patel",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
+    "mochawesome": "^6.1.1"
+  }
+}
