@@ -10,7 +10,7 @@
 
 # Project Description
 
-This repository contains the set of questions that have to be solved as a part core JavaScript Training. THe test consists of a set of questions which have to be solved and the solution should meet the criteria set in the test folder.
+This repository contains the set of questions that have to be solved as a part core JavaScript training. The test consists of a set of questions which have to be solved and the solution should meet the criteria set in the test folder.
 
 ## Instructions
 
@@ -18,7 +18,7 @@ The test consists of 5 coding questions which have to be solved for completing t
 
 1. Clone the repository using 
 ```
-git clone https://github.com/raweng-academy/trainee-profile-page-collection.git
+git clone https://github.com/raweng-academy/core-JS-coding-test.git
 ```
 2. Navigate into the folder and run the following command to install all dependencies 
 ```
@@ -31,7 +31,7 @@ git init
 ```
 git remote add origin <GitHub Repository>
 ```
-4. Navigate to questions folder and solve the 5 questions by writing the code withing the given code structure. Do not change the function name or exports made by module. Candidate can choose to write additional functions to complete the coding test.
+4. Navigate to questions folder and solve the 5 questions by writing the code within the given code structure. Do not change the function name or exports made by module. Candidate can choose to write additional functions to complete the coding test.
 
 5. To check the solution use the following command. The code will check if the solution provided meets the test criteria. 
 ```
