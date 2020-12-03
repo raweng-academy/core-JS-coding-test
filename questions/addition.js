@@ -4,6 +4,8 @@
 3. Detect non numeric input and throw an error with message "Invalid Input"
 */
 
-const addition = (...numbers) => {};
+const addition = (...numbers) => {
+  // all your code
+};
 
 module.exports = addition;
