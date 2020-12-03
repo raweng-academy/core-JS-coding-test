@@ -1,4 +1,4 @@
-const convertTime = require("../questions/hourMinuteSeconds");
+const convertTime = require("../questions/convertTime");
 const { expect } = require("chai");
 
 describe("Time Converter", () => {
