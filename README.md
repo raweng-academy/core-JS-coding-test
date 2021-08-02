@@ -43,7 +43,7 @@ git init
 git remote add origin <GitHub Repository>
 ```
 
-4. Navigate to questions folder and solve the 5 questions by writing the code
+4. Navigate to questions folder and solve the questions by writing the code
    within the given code structure. Do not change the function name or exports
    made by module. Candidate can choose to write additional functions to
    complete the coding test.
