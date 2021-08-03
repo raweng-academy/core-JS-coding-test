@@ -16,7 +16,7 @@ be solved and the solution should meet the criteria set in the test folder.
 
 ## Instructions
 
-The test consists of 5 coding questions which have to be solved for completing
+The test consists of coding questions which have to be solved for completing
 the test.
 
 1. Clone the repository using
