@@ -63,6 +63,6 @@ npm run test
 npm run submit
 ```
 
-1. Candidate can submit the solution by submitting the repository using the
+Candidate can submit the solution by submitting the repository using the
    [link](https://forms.gle/G84E67SaoCqYR3YF7). Note no commits should be pushed
    to the repository once the solution is submitted
